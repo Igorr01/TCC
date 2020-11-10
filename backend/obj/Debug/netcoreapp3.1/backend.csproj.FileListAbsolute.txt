@@ -52,3 +52,10 @@ C:\Users\infob13\Documents\TCCfastfood2020\TCC\backend\bin\Debug\netcoreapp3.1\M
 C:\Users\infob13\Documents\TCCfastfood2020\TCC\backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\infob13\Documents\TCCfastfood2020\TCC\backend\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\infob13\Documents\TCCfastfood2020\TCC\backend\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.csprojAssemblyReference.cache
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.AssemblyInfoInputs.cache
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.AssemblyInfo.cs
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.dll
+C:\Users\Luciano\Documents\Info B - Igor\TCC\TCC\backend\obj\Debug\netcoreapp3.1\backend.pdb
